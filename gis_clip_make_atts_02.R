@@ -85,15 +85,15 @@ bps_color_file <- filtered_bps_name_groups %>%
 
 ## way to remove geographies to shorten names
 
-# geographies <- c(
-#   "Boreal ",
-#   "Central Interior and Appalachian ",
-#   "Great Lakes ",
-#   "Laurentian ",
-#   "Laurentian-Acadian ",
-#   "North-Central Interior ")
+geographies <- c(
+  "Boreal ",
+  "Central Interior and Appalachian ",
+  "Great Lakes ",
+  "Laurentian ",
+  "Laurentian-Acadian ",
+  "North-Central Interior ")
 
-# bps_color_file$BPS_NAME <- gsub(paste(geographies, collapse = "|"), "", BpSColorFile$BPS_NAME)
+bps_color_file$BPS_NAME <- gsub(paste(geographies, collapse = "|"), "", bps_color_file$BPS_NAME)
 
 # write for use in QGIS
 write.table(bps_color_file, file = "outputs/bps_color_file.txt", sep = ",",

@@ -1,0 +1,20 @@
+1637,106,0,138,255,Acidic Peatland Systems
+1581,106,0,138,255,Acidic Peatland Systems
+1608,106,0,138,255,Acidic Peatland Systems
+1620,255,140,140,255,Jack Pine-Black Spruce Forest-Pine Barrens
+1624,110,137,70,255,White Spruce-Fir-Hardwood Forest-Coastal
+1597,110,137,70,255,White Spruce-Fir-Hardwood Forest-Coastal
+1623,147,194,114,255,White Spruce-Fir-Hardwood Forest-Inland
+1596,147,194,114,255,White Spruce-Fir-Hardwood Forest-Inland
+1568,147,194,114,255,White Spruce-Fir-Hardwood Forest-Inland
+1639,232,189,255,255,Alkaline Conifer-Hardwood Swamp
+1583,232,189,255,255,Alkaline Conifer-Hardwood Swamp
+1610,232,189,255,255,Alkaline Conifer-Hardwood Swamp
+1615,76,230,150,255,Northern Hardwoods Forest-Hemlock
+1614,76,230,0,255,Northern Hardwoods Forest-Hemlock
+1561,76,230,0,255,Northern Hardwoods Forest-Hemlock
+1562,76,230,150,255,Northern Hardwoods Forest-Hemlock
+1588,76,230,0,255,Northern Hardwoods Forest-Hemlock
+1622,255,191,191,255,Northern Pine(-Oak) Forest
+1625,208,255,99,255,Pine-Hemlock-Hardwood Forest
+1569,208,255,99,255,Pine-Hemlock-Hardwood Forest
