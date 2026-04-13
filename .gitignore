@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+
+# Shapefile components and metadata
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.xml
